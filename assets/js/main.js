@@ -47,62 +47,62 @@ const app = {
         {
             name: 'Love Story',
             singer: 'Indila',
-            thumb: 'assets/img/music1.jpg',
-            path: 'assets/music/music1.mp3'
+            thumb: './assets/img/music1.jpg',
+            path: './assets/music/music1.mp3'
         },
         {
             name: 'Suzume',
             singer: 'Toaka',
-            thumb: 'assets/img/music2.jpg',
-            path: 'assets/music/music2.mp3'
+            thumb: './assets/img/music2.jpg',
+            path: './assets/music/music2.mp3'
         },
         {
             name: '真夜中のドア/Stay With Me',
             singer: 'Miki Matsubara',
-            thumb: 'assets/img/music3.jpg',
-            path: 'assets/music/music3.mp3'
+            thumb: './assets/img/music3.jpg',
+            path: './assets/music/music3.mp3'
         },
         {
             name: '"Starry Starry Night" from Loving Vincent',
             singer: 'Lianne La Havas',
-            thumb: 'assets/img/music4.jpg',
-            path: 'assets/music/music4.mp3'
+            thumb: './assets/img/music4.jpg',
+            path: './assets/music/music4.mp3'
         },
         {
             name: 'Ghost In A Flower',
             singer: 'Yorushika',
-            thumb: 'assets/img/music5.jpg',
-            path: 'assets/music/music5.mp3'
+            thumb: './assets/img/music5.jpg',
+            path: './assets/music/music5.mp3'
         },
         {
             name: 'Tabun',
             singer: 'YOASOBI',
-            thumb: 'assets/img/music6.png',
-            path: 'assets/music/music6.mp3'
+            thumb: './assets/img/music6.png',
+            path: './assets/music/music6.mp3'
         },
         {
             name: 'One Voice',
             singer: 'Rokudenashi',
-            thumb: 'assets/img/music7.png',
-            path: 'assets/music/music7.mp3'
+            thumb: './assets/img/music7.png',
+            path: './assets/music/music7.mp3'
         },
         {
             name: 'Yoru ni Kakeku',
             singer: 'YOASOBI',
-            thumb: 'assets/img/music8.png',
-            path: 'assets/music/music8.mp3'
+            thumb: './assets/img/music8.png',
+            path: './assets/music/music8.mp3'
         },
         {
             name: 'Halzion',
             singer: 'YOASOBI',
-            thumb: 'assets/img/music9.jpg',
-            path: 'assets/music/music9.mp3'
+            thumb: './assets/img/music9.jpg',
+            path: './assets/music/music9.mp3'
         },
         {
             name: 'L\'Amour, Les Baguettes, Paris',
             singer: 'Stella Jang',
-            thumb: 'assets/img/music10.jpg',
-            path: 'assets/music/music10.mp3'
+            thumb: './assets/img/music10.jpg',
+            path: './assets/music/music10.mp3'
         }
     ],
     render: function() {
